@@ -1,0 +1,1 @@
+This project is a simple Ben 10 webpage developed using HTML and CSS. It showcases images of three Ben 10 aliens in a structured and responsive design. The project helped me understand the basics of web development, including image handling, layouts, and styling techniques.
